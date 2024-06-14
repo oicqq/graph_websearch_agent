@@ -86,5 +86,5 @@ Ollama [API documentation](https://github.com/ollama/ollama/blob/main/docs/api.m
 
 #### Video on how I integrated the Ollama Server:
 
-[![Watch the video](https://img.youtube.com/vi/tVcOU054iWA/0.jpg)](https://youtu.be/tVcOU054iWA)
+[![Watch the video](https://img.youtube.com/vi/tVcOU054iWA/0.jpg)](https://space.bilibili.com/3493076850968674)
 
